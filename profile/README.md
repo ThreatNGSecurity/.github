@@ -76,9 +76,9 @@ At ThreatNG, we built a product around open source intelligence (OSINT), which c
 
 | Repository | Description |
 | ------------------ | ---------------------------------------- |
-| ESG Filings | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management. This repository contains the links to each listed organization's ESG (Sustainability or CSR [Corporate Social Resposiblity] filings and information). |
-| ESG Violations | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management, and with its popularity comes violations and fines in each of these areas. This repository contains links to sources that provide ESG-related violations and fines. |
-| Ethics & Governance | Organizations are often asked how their business is run and governed, and being transparent about these practices can become a competitive advantage. This repository contains links to each listed organization's Ethics and Governance information. |
+| [ESG Filings](https://github.com/ThreatNGSecurity/ESG-Filings) | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management. This repository contains the links to each listed organization's ESG (Sustainability or CSR [Corporate Social Resposiblity] filings and information). |
+| [ESG Violations](https://github.com/ThreatNGSecurity/ESG-Violations) | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management, and with its popularity comes violations and fines in each of these areas. This repository contains links to sources that provide ESG-related violations and fines. |
+| [Ethics & Governance](https://github.com/ThreatNGSecurity/Ethics-Governance) | Organizations are often asked how their business is run and governed, and being transparent about these practices can become a competitive advantage. This repository contains links to each listed organization's Ethics and Governance information. |
 
 <br>
 
