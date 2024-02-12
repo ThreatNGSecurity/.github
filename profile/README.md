@@ -79,6 +79,8 @@ At ThreatNG, we built a product around open source intelligence (OSINT), which c
 | [ESG Filings](https://github.com/ThreatNGSecurity/ESG-Filings) | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management. This repository contains the links to each listed organization's ESG (Sustainability or CSR [Corporate Social Resposiblity] filings and information). |
 | [ESG Violations](https://github.com/ThreatNGSecurity/ESG-Violations) | ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management, and with its popularity comes violations and fines in each of these areas. This repository contains links to sources that provide ESG-related violations and fines. |
 | [Ethics & Governance](https://github.com/ThreatNGSecurity/Ethics-Governance) | Organizations are often asked how their business is run and governed, and being transparent about these practices can become a competitive advantage. This repository contains links to each listed organization's Ethics and Governance information. |
+| [Compliance & Trust](https://github.com/ThreatNGSecurity/Compliance-and-Trust) | Organizations' transparency about their security and compliance practices has become pivotal in third-party risk management (TPRM). This repository contains the links to each listed organization's Security & Compliance information. |
+| [Privacy Policies](https://github.com/ThreatNGSecurity/Privacy-Policies) | The privacy policy is often disregarded and not read as it contains heavy legal language and is overly complex. Still, it is a great starting point for understanding what data an organization gathers, how they use it, and how they share and protect it. This repository contains the links to each listed organization's privacy policy. | 
 
 <br>
 
@@ -89,8 +91,6 @@ At ThreatNG, we built a product around open source intelligence (OSINT), which c
 
 | Repository | Description |
 | ------------------ | ---------------------------------------- |
-| Compliance & Trust | Organizations' transparency about their security and compliance practices has become pivotal in third-party risk management (TPRM). This repository contains the links to each listed organization's Security & Compliance information. |
-| Privacy Policies | The privacy policy is often disregarded and not read as it contains heavy legal language and is overly complex. Still, it is a great starting point for understanding what data an organization gathers, how they use it, and how they share and protect it. This repository contains the links to each listed organization's privacy policy. | 
 | Terms of Service | The terms of service or use is another often disregarded document, as it also uses heavy legal language. It is a great starting point for understanding what an organization expects from the users of its provided service. This repository contains the links to each listed organization's Terms of Use Policy. | 
 | Career/Jobs Page | Organizations are always looking for new talent, and their job roles and descriptions can often reveal technologies used or other events taking place at the organization. This repository contains the links to each listed organization's Jobs or Career Page. | 
 
