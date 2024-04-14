@@ -83,17 +83,7 @@ At ThreatNG, we built a product around open source intelligence (OSINT), which c
 | [Privacy Policies](https://github.com/ThreatNGSecurity/Privacy-Policies) | The privacy policy is often disregarded and not read as it contains heavy legal language and is overly complex. Still, it is a great starting point for understanding what data an organization gathers, how they use it, and how they share and protect it. This repository contains the links to each listed organization's privacy policy. | 
 | [Terms of Service](https://github.com/ThreatNGSecurity/Terms_of_Service) | Terms of Service (ToS) showcase what users must agree to when utilizing a product or service. The language of these terms can reveal crucial information about data use, data processing, AI/ML, third parties, and more. This repository contains the links to each listed organization's Terms of Service. |
 | [Security Advisories](https://github.com/ThreatNGSecurity/Security_Advisories) | Organizations release Security Advisories about the products they build to inform their users of potential security risks and vulnerabilities. This repository contains the links to each listed organization's Security Advisories and their RSS Feed Link if one is present. |
-<br>
-
-# Coming Soon!  
-
-<br>
-
-
-| Repository | Description |
-| ------------------ | ---------------------------------------- |
-| Career/Jobs Page | Organizations are always looking for new talent, and their job roles and descriptions can often reveal technologies used or other events taking place at the organization. This repository contains the links to each listed organization's Jobs or Career Page. | 
-
+| [Career/Jobs Pages](https://github.com/ThreatNGSecurity/Career_Jobs_Pages) | Organizations are always looking for new talent, and their job roles and descriptions can often reveal technologies used or other events taking place at the organization. This repository contains the links to each listed organization's Jobs or Career Page. | 
 <br>
 
 # Contributing
